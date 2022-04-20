@@ -14,12 +14,10 @@ bot = Bot(token=config.TOKEN)
 dp = Dispatcher(bot)
 
 
+# Обработчик сообщений
 @dp.message_handler()
 async def name(message: types.Message):
     await message.answer('message')
-
-
-
 
 
 
