@@ -1,6 +1,13 @@
-# [RU] Шаблон для Telegram Bot (aiogram)
-# [EN] Template for Telegram Bot (aiogram)
+# Шаблон для Telegram Bot (aiogram)
 ***
+
+### *ПЕРЕД НАЧАЛОМ*
+- *Перед началом создайте файл config.py в директории с ботом и вставьте туда токен бота из @BotFather*
+#### Файл config.py:
+```python
+TOKEN = 'YOUR TOKEN'
+```
+#### Файл main.py:
 ```python
 import config
 import logging
