@@ -1,2 +1,2 @@
-# telegram-bot-template-
-Template for any Telegram Bot
+# TEMPLATE FOR TELEGRAM BOT (aiogram)
+This is a template for quick setup of Telegram Bot...
