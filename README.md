@@ -1,4 +1,5 @@
-# Шаблон для Telegram Bot (aiogram)
+# [RU] Шаблон для Telegram Bot (aiogram)
+# [EN] Template for Telegram Bot (aiogram)
 ***
 ```python
 import config
